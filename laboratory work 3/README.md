@@ -17,3 +17,5 @@
 Програма вивела: ![alt-text](https://github.com/Oleksii-dot278/Firts-work/blob/main/laboratory%20work%203/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-29%20164551.png)
 
 
+Завдання №11
+ось посилання на відповідь: https://github.com/Oleksii-dot278/Firts-work/blob/main/laboratory%20work%203/exersize%2011.md   
